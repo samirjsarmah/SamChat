@@ -24,25 +24,6 @@ Platform: Web Application
 API Integration: Gemini AI API
 
 
-
-📂 Project Structure
-project-folder/
-│
-├── index.html        # Chat interface
-├── style.css         # UI styling
-├── script.js         # Chat logic and API calls
-└── README.md         # Project documentation
-
-
-🧪 Usage
-Open the chatbot interface.
-Type your question or message.
-Receive AI-generated responses instantly.
-
-
-📌 Future Improvements
-Voice input & output
-Chat history storage
 Authentication system
 Multi-language support
 Context-aware conversations
